@@ -1,2 +1,2 @@
 # mse_delearn
-MSE Deep Learning Repo
+MSE Deep Learning
