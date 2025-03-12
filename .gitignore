@@ -1,4 +1,3 @@
 .DS_Store
 .venv
-02_exercises/data/MNIST/
-03_exercises/data/FashionMNIST/
+**/*MNIST/
