@@ -2,3 +2,4 @@
 .venv
 **/*MNIST/
 **/cifar-10*/
+**/wandb/
