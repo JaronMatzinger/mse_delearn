@@ -1,6 +1,6 @@
 .DS_Store
 .venv
-**/*MNIST/
-**/cifar-10*/
 **/wandb/
-**/data/
+**/cifar-10-batches-py/
+**/FashionMNIST/
+**/MNIST/
